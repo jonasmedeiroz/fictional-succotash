@@ -1,1 +1,1 @@
-# fictional-succotash
+# solana-sniper-api
